@@ -1,0 +1,61 @@
+<div ng-app="employeeEmployee">
+    <h1>
+        {{title}}
+    </h1>
+    <h2>Employee List</h2>
+    <select ng-model="selectedEmployee" (change)="onSelect($event)">
+        <option *ngFor="let employee of employees" [value]="employee.emailid">{{employee.emailid}}</option>
+    </select>
+    <h2>My Employees</h2>
+    <ul class="employees">
+        <span>ID EMAIL-ADDRESS</span>
+        <li *ngFor="let employee of employees" (click)="onSelect(employee)">
+          <span class="badge">{{employee.id}}</span> {{employee.emailid}}
+        </li>
+    </ul>
+    <div *ngIf="selectedEmp">
+      <h2>Employee {{selectedEmp.emailid | uppercase}} Details</h2>
+      <div>
+      <h4>
+        <div>Available Vacation:  {{selectedEmp.remainingVacation}}</div>
+        <div>Available Vacation Accumulated:  {{selectedEmp.numVacationDaysAcc}}</div>
+        <div>Taken Vacation:  {{selectedEmp.vacationDaysTaken}}</div>
+        <div>Max Allowed Vacation:  {{selectedEmp.maxVacationDaysAllowed}}</div>
+        <div>Total Days Worked:  {{selectedEmp.totalDaysWorked}}</div>
+        </h4>
+        <label>Work Days To Add:
+          <input #days class="days"/>
+        </label>
+        <button (click)="updateWorkDays(days.value)">Add Workdays</button>
+        <div class="grid-pad"></div>
+        <label>Take Vacation:
+          <input #vacationDays class="days"/>
+        </label>
+        <button (click)="updateVacation(vacationDays.value)">Add Vacation</button>
+      </div>
+    </div>
+</div>
+<!--
+<div>
+  <label>Employee name:
+    <input #employeeName />
+  </label>
+  <!-- (click) passes input value to add() and then clears the input
+  <button (click)="get(employeeName.value); employeeName.value=''">
+    add
+  </button>
+</div>
+
+<ul class="employees">
+  <li *ngFor="let employee of employees">
+    <a routerLink="/employee/{{employee.id}}">
+      <span class="badge">{{employee.id}}</span> {{employee.name}}
+    </a>
+    <button class="delete" title="delete employee"
+      (click)="delete(employee)">x</button>
+  </li>
+</ul>
+-->
+
+
+

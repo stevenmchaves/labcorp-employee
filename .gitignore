@@ -5,3 +5,6 @@
 node
 logs
 node_modules
+dist
+target
+src/assets/.gitkeep

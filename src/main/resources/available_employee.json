@@ -1,0 +1,190 @@
+[
+	{
+		"emailid": "gabrielg@update.020613",
+		"firstname": "Z",
+		"lastname": "1",
+		"type": "E"
+	},
+	{
+		
+		"emailid": "q@a.com",
+		"firstname": "80char",
+		"lastname": "31pwd",
+		"type": "E"
+	},
+	{
+		
+		"emailid": "steven4chw@stevenchaves.com",
+		"firstname": "steven *FUNCTIONAL-ID*",
+		"lastname": "Admin CHW",
+		"type": "S"
+	},
+	{
+		
+		"emailid": "barneyb@stevenchaves.com",
+		"firstname": "Bob",
+		"lastname": "Barney",
+		"type": "S"
+	},
+	{
+		"emailid": "jaboyd@stevenchaves.com",
+		"firstname": "Justin",
+		"lastname": "Boyd",
+		"type": "M"
+	},
+	{
+		"emailid": "jmiller@stevenchaves.com",
+		"firstname": "Justin",
+		"lastname": "Miller",
+		"type": "E"
+	},
+	{
+		"emailid": "lruschil@stevenchaves.com",
+		"firstname": "Lisa",
+		"lastname": "Brand",
+		"type": "E"
+	},
+	{
+		"emailid": "macdowellk@stevenchaves.com",
+		"firstname": "Katy",
+		"lastname": "Macdowell",
+		"type": "S"
+	},
+	{
+		"emailid": "burnettk@stevenchaves.com",
+		"firstname": "Katy",
+		"lastname": "Burnett",
+		"type": "E"
+	},
+	{
+		"emailid": "Steven.Chaves@stevenchaves.com",
+		"firstname": "Steven",
+		"lastname": "Chaves",
+		"type": "S"
+	},
+	{
+		"emailid": "pabbott@stevenchaves.com",
+		"firstname": "Paul",
+		"lastname": "Abbott",
+		"type": "S"
+	},
+	{
+		"emailid": "pcon@stevenchaves.com",
+		"firstname": "Paul",
+		"lastname": "Conway",
+		"type": "E"
+	},
+	{
+		
+		"emailid": "ginacox@stevenchaves.com",
+		"firstname": "Gina",
+		"lastname": "Cox",
+		"type": "S"
+	},
+	{
+		
+		"emailid": "mjacobs@stevenchaves.com",
+		"firstname": "Mark",
+		"lastname": "Jacobs",
+		"type": "M"
+	},
+	{
+		"emailid": "mtday@stevenchaves.com",
+		"firstname": "Mark",
+		"lastname": "Day",
+		"type": "E"
+	},
+	{
+		"emailid": "bpdempse@stevenchaves.com",
+		"firstname": "Brandon",
+		"lastname": "Dempsey",
+		"type": "S"
+	},
+	{
+		"emailid": "rdotson@stevenchaves.com",
+		"firstname": "Bob",
+		"lastname": "Dotson",
+		"type": "S"
+	},
+	{
+		
+		"emailid": "ckelliot@stevenchaves.com",
+		"firstname": "Christopher",
+		"lastname": "Elliott",
+		"type": "M"
+	},
+	{
+		"emailid": "cwatson@stevenchaves.com",
+		"firstname": "Christopher",
+		"lastname": "Watson",
+		"type": "E"
+	},
+	{
+		"emailid": "sericks@stevenchaves.com",
+		"firstname": "Sara",
+		"lastname": "Erickson",
+		"type": "S"
+	},
+	{
+		
+		"emailid": "cdfoster@stevenchaves.com",
+		"firstname": "Christopher",
+		"lastname": "Foster",
+		"type": "S"
+	},
+	{
+		
+		"emailid": "mary@stevenchaves.com",
+		"firstname": "Mary",
+		"lastname": "Fritz",
+		"type": "M"
+	},
+	{
+		"emailid": "edfunk@stevenchaves.com",
+		"firstname": "Ed",
+		"lastname": "Funk",
+		"type": "M"
+	},
+	{
+		"emailid": "kai2@stevenchaves.com",
+		"firstname": "Kurt",
+		"lastname": "Irish",
+		"type": "E"
+	},
+	{
+		"emailid": "kbusch@stevenchaves.com",
+		"firstname": "Kurt",
+		"lastname": "Busch",
+		"type": "E"
+	},
+	{
+		"emailid": "millerj@stevenchaves.com",
+		"firstname": "John",
+		"lastname": "Miller",
+		"type": "M"
+	},
+	{
+		"emailid": "wbmorrow@stevenchaves.com",
+		"firstname": "William",
+		"lastname": "Morrow",
+		"type": "M"
+	},
+	{
+		"emailid": "nelsonjoe@stevenchaves.com",
+		"firstname": "Joe",
+		"lastname": "Nelson",
+		"type": "M"
+	},
+	{
+		"emailid": "nelsone@stevenchaves.com",
+		"firstname": "Elaine",
+		"lastname": "Nelson",
+		"type": "M"
+	},
+	{
+		"emailid": "ayomets@aolc.om",
+		"firstname": "Anne",
+		"lastname": "Offer",
+		"type": "M"
+	}
+]
